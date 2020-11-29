@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f5f6;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+main {
+    padding-top: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.container {
+    max-width: 1310px;
+    background-color: white;
+}
+
+.container-fluid {
+    max-width: 1310px;
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.header-top {
+    background-color: #f72210;
+    color: white;
+    fill: white;
+    padding: 5px 0;
+}
