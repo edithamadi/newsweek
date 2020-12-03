@@ -1,3 +1,5 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "clockify.tracking.workspaceId": "5f1ddfb166af7a1334ef05be",
+    "clockify.tracking.projectId": "5f1de4d118575c4cdcfe66b6"
 }
